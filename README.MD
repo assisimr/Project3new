@@ -9,8 +9,11 @@
 ## SCREENSHOTS
 
 1. postman listing all records
+https://github.com/assisimr/Project3new/blob/master/screenshots/listing%20all%20records.png
 
-3. postman showing one record with a GET request
+2. postman showing one record with a GET request
+
+
 4. postman showing POST request and results in records list
 5. postman showing PUT request and results in records list
 6. postman showing DELETE request and results in records list
